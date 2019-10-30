@@ -10,6 +10,7 @@ int main() {
     }
     cout<<k;
     // Kya baat hai sir !
+    //sir main amit
 }
 
 
